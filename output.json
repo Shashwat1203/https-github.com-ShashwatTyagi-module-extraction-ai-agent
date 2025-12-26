@@ -1,0 +1,11 @@
+[
+    {
+        "module": "Featured Articles",
+        "Description": "Getting started with Zluri is quick and easy. Here's how",
+        "Submodules": {
+            "Popular Resources": "Related feature of Featured Articles",
+            "Recently Added": "Related feature of Featured Articles",
+            "Still have questions?": "Related feature of Featured Articles"
+        }
+    }
+]
